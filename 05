@@ -1,0 +1,5 @@
+Database Sql: database yang menggunakan relasi (biasa disebut table) untuk store data dan match the data dengan menggunakan karakteristik-karateristik yang berhubungan dengan dataset
+contoh : Postgres, Mysql
+
+Database noSQL : database yang mempunyai mekanisme untuk menyimpan data dan mengambil data yang dilakukan oleh database kita. NoQSL tidak membutuhkan data model relational dan bahasa SQL untuk melakukan hal tersebut
+contoh : Redish, mongodb
